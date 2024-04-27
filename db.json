@@ -1,0 +1,173 @@
+{
+  "settings": [
+    {
+      "id": 1,
+      "title": "مصنع السلام للورق الحرارى ",
+      "color": "dark"
+    }
+  ],
+  "recepts": [
+    {
+      "retunFlag": "false",
+      "NOC": "سعيد",
+      "phone": "731-720-5286 x5755",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 3
+    },
+    {
+      "retunFlag": "true",
+      "NOC": "حسام",
+      "phone": "586.286.2467 x306",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 5
+    },
+    {
+      "retunFlag": "false",
+      "NOC": "سعيد",
+      "phone": "1-973-335-0922 x7447",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 8
+    },
+    {
+      "retunFlag": "true",
+      "NOC": "سعيد",
+      "phone": "1-489-927-9599 x94703",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 3
+    },
+    {
+      "retunFlag": "true",
+      "NOC": "حسام",
+      "phone": "1-327-371-5595 x2248",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 3
+    },
+    {
+      "retunFlag": "true",
+      "NOC": "وليد",
+      "phone": "1-573-289-8303",
+      "address": "عنوان",
+      "wastMony": 0,
+      "products": {},
+      "pForSearch": "",
+      "productsPrice": {
+        "دهب مصطفى": 3,
+        "اطباق مصطفى": 50
+      },
+      "ProductsHamsh": {
+        "دهب مصطفى": 10,
+        "اطباق مصطفى": 30
+      },
+      "date": "2024-11-01",
+      "prise": 0,
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "فورى 16م مصطفى",
+      "prise": 2065,
+      "qun": -1,
+      "discripe": "كرتونة عدد 350 بكرة ",
+      "seller": "مصطفى",
+      "type": "16 متر  5.7 سم ",
+      "hamsh": 2,
+      "id": 1
+    },
+    {
+      "name": "فورى 14م مصطفى",
+      "prise": 1925,
+      "qun": 8,
+      "discripe": "كرتونة عدد 350 بكرة ",
+      "seller": "مصطفى",
+      "type": "حرارى عرض 5.7 سم ",
+      "hamsh": 9,
+      "id": 2
+    },
+    {
+      "name": "فورى 14م *5.10 ج مصطفى",
+      "prise": 1632,
+      "qun": 8,
+      "discripe": "عدد الكرتونة 320 بكرة ",
+      "seller": "مصطفى",
+      "type": "14 متر *5.10 ج 5.7 سم ",
+      "hamsh": 9,
+      "id": 3
+    },
+    {
+      "name": "فورى 14 متر  محمد_كامل",
+      "prise": 2320,
+      "qun": 8,
+      "discripe": "كرتونة 400 بكرة ",
+      "seller": "محمد_كامل",
+      "type": "حرارى 5.7 سم ",
+      "hamsh": 0,
+      "id": 4
+    }
+  ]
+}
